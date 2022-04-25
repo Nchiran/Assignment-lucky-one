@@ -1,14 +1,18 @@
-import React, { Component } from "react";
-import Footer from "./component/Footer/Footer.js";
-import Shop from "./component/Shop/Shop.js";
+import React from "react";
+import "./ShopCard.css";
 
-function App() {
+const Shopingcard = () => {
   return (
     <div>
-      <Shop />
-      <Footer></Footer>
+      <div></div>
+      <button className="btn">
+        <p className="btn-text">Add to Cart</p>
+      </button>
+      <button className="btn">
+        <p className="btn-text">Add to Cart</p>
+      </button>
     </div>
   );
-}
+};
 
-export default App;
+export default Shopingcard;
