@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import Footer from "./component/Footer/Footer.js";
-import Shop from "./component/Shop/Shop.js";
+import Footer from "./Component/Footer/Footer.js";
+import Shop from "./Component/Shop/Shop.js";
 
 function App() {
   return (

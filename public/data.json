@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "name": "i-phone 16 Pro max",
+      "img": "https://i.pcmag.com/imagery/roundups/02YK0Taryq7yVkwdYcgZ7TJ-17..v1633028023.jpg",
+      "price": "1400"
+    },
+    {
+      "id": 2,
+      "name": "Noise ColorFit Pro 3 Alpha Bluetooth Calling Smart Watch",
+      "img": "https://image.shutterstock.com/image-vector/smartwatch-wearable-computer-accessory-isolated-260nw-1294594324.jpg",
+      "bullet": "9mm",
+      "capacity": "17 + 1",
+      "action": "Semi-Automatic",
+      "price": "540",
+      "category": "Pistol"
+    },
+    {
+      "id": 3,
+      "name": "Iphone 13 Pro max",
+      "img": "https://i.pcmag.com/imagery/roundups/02YK0Taryq7yVkwdYcgZ7TJ-17..v1633028023.jpg",
+      "price": "1200",
+      "category": "Pistol"
+    },
+    {
+      "id": 4,
+      "name": "Bluetooth Earbuds, Wireless Bluetooth 5.0",
+      "img": "https://m.media-amazon.com/images/I/61AD1bfpEbL._AC_SY355_.jpg",
+      "price": "100"
+    },
+    {
+      "id": 5,
+      "name": "EarBuds, Wireless Bluetooth 6.0",
+      "img": "https://www.ubuy.com.bd/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzFDYllBVW1NZkwuX0FDX1NMMTUwMF8uanBn.jpg",
+      "price": "54"
+    },
+    {
+      "id": 6,
+      "name": "ZEALOT B570 FOLDABLE BLUETOOTH HEADPHONES",
+      "img": "https://www.mytrendyphone.eu/images/Zealot-B570-Foldable-Bluetooth-Headphones-Black-24052019-02-p.jpg",
+      "price": "100"
+    },
+    {
+      "id": 7,
+      "name": "Bluetooth Headphones Wireless TUINYO Over Ear Stereo",
+      "img": "https://www.ubuy.com.bd/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNjFxK1JUNEN5YlMuX0FDX1NMMTUwMF8uanBn.jpg",
+      "price": "540"
+    },
+    {
+      "id": 8,
+      "name": "In-ear Wireless Bluetooth Headset Headphones Earphone",
+      "img": "https://img.joomcdn.net/87e464b545d152d416b759a2398e65f141b2cee0_original.jpeg",
+      "price": "75"
+    },
+    {
+      "id": 9,
+      "name": "TELESIN MIC-UHF-02 UHF Wireless Micropho-ne 50m ",
+      "img": "https://static-01.daraz.com.bd/p/e770c2ebc5a1d56aafb86866d9f98363.jpg",
+      "price": "58"
+    },
+    {
+      "id": 10,
+      "name": "USB Plug&Play Computer Microphone, FDUCE Professional Studio PC Mic ",
+      "img": "https://m.media-amazon.com/images/I/61shDrGJbQS._AC_SL1500_.jpg",
+      "price": "200"
+    },
+    {
+      "id": 11,
+      "name": "Samson Q9U XLR/USB Microphone",
+      "img": "https://www.bhphotovideo.com/images/images2000x2000/shure_mv7_k_mv7_mic_1593379.jpg",
+      "price": "100"
+    },
+    {
+      "id": 12,
+      "name": "MXL V67G MicroPhone ",
+      "img": "https://www.gearank.com/sites/default/files/styles/large/public/field/image/microphone.jpg?itok=abZqqLVy",
+      "price": "110"
+    }
+  ]
+  
